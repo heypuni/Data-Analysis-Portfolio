@@ -29,12 +29,10 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 
 ## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order (date of completion in brackets):
+The best way to showcase skills is by doing and sharing your job well-done but sometimes certificates can be indirect results. Here's a list of the ones I have: <br> 
 
-Google Data Analytics Professional Certificate (Coursera - Google)
-Tableau (Coursera - University of California, Davis)
-Python for Data Science (Coursera - University of Colorado Boulder)
+Google Data Analytics Professional Certificate (Coursera - Google)(2025)
 
 ## Contacts
-LinkedIn: @gabbyevalinf
+LinkedIn: @gabbyevalinf <br>
 Email: gabbyevalinf@gmail.com
